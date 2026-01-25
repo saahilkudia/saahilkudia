@@ -1,47 +1,73 @@
-# Saahil Kudia 🎓
-**Computer Science Student | Exploring Backend & Machine Learning**
+# 💜 Hi, I'm Saahil Kudia
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&width=435&lines=Applied+Computing+Student;Machine+Learning+Enthusiast;Backend+Explorer" alt="Typing SVG" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saahilkudia&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahilkudia&layout=donut&theme=default&hide_border=true" width="40%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7b56ff&height=100&section=header&text=%20&fontSize=50&animation=fadeIn" width="100%" />
+
+### 🧩 About Me
+I’m a **Applied Computing Student** navigating the world of backend architecture and data intelligence. I love the process of turning a complex logical problem into a clean, functional piece of code.
+
+- 🔭 **Current Goal:** Transitioning from data collection to predictive modeling.
+- 🏗️ **Architectural Focus:** Mastering Object-Oriented Design and Concurrency.
+- ⚡ **Philosophy:** Clean code is a habit, not a destination.
+
+---
+
+### 🛠️ Technical Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,vscode,github,pycharm,linux&theme=dark" />
 </p>
 
 ---
 
-### 👋 About Me
-I'm a student developer focused on mastering the basics of software engineering. I enjoy building tools that automate the boring stuff and exploring how data flows through networks.
+### 🚀 Projects in Evolution
 
-- 🏫 **University:** Computer Science Major
-- 🤖 **ML Interests:** Data Collection & Analysis
-- 💻 **Tech Stack:** Python, Java, SQL
+#### 📡 [Java-Sockets](https://github.com/saahilkudia/Java-Sockets)
+*Networking & Concurrency*
+- Implemented a multi-threaded client-server ecosystem to understand TCP/IP.
+- **Focus:** Object-Oriented Design and Thread Safety.
+- `Java` • `Networking` • `Multi-threading`
 
 ---
 
-### 🏆 Achievements & Skills
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saahilkudia&theme=flat&no-bg=true&margin-w=15" width="100%" />
+### 🧠 Knowledge Roadmap
+| Phase | Domain | Core Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **01** | 🖥️ Backend Development | Java / SQL | 🟢 Active |
+| **02** | 🕸️ Data Engineering | Python / Scraping | 🟢 Active |
+| **03** | 🤖 Machine Learning | Scikit-Learn | 🟡 Exploring |
+| **04** | 🧠 Neural Networks | TensorFlow | ⚪ Planned |
+
+---
+
+### 📊 Performance & Habits
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saahilkudia&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahilkudia&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,mysql,vscode,github" />
+#### 🌌 Contribution Intensity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saahilkudia&theme=dracula&hide_border=true&area=true&color=bd93f9" width="100%" />
+</p>
+
+#### ⏰ Coding Schedule
+*This widget shows your most productive times of the day.*
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saahilkudia&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saahilkudia&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saahilkudia&theme=dracula" width="32%" />
 </p>
 
 ---
 
-### 📂 Current Projects
-* 📡 **[Java-Sockets](https://github.com/saahilkudia/Java-Sockets)**: Learning multi-threaded networking.
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/saahilkudia](https://linkedin.com/in/saahilkudia)
+- **Email:** [saahilkudia31@gmail.com](mailto:saahilkudia31@gmail.com)
 
 ---
-
-### 🔥 Activity & Habits
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saahilkudia&theme=default&hide_border=true" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="100%" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
-  <br />
-  <sub>Last updated: Jan 2026</sub>
-</div>
