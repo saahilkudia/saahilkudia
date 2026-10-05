@@ -1,113 +1,126 @@
-# Hi, I'm Muhammad Saahil Kudia 👋
+<div align="center">
 
-### Software Engineer | Backend Development | Business Systems & Automation
+# 👋 Muhammad Saahil Kudia
 
-I'm an Applied Computing student and software engineer focused on building
-backend systems, business applications, and automation for real operational problems.
+### Software Engineer • Backend Systems • Business Automation
 
-I primarily work with **Java, Spring Boot, SQL, REST APIs, PostgreSQL, and Docker**,
-with experience building software for clinic operations, business management,
-financial workflows, and e-commerce automation.
+Building software that replaces repetitive workflows with practical systems.
 
-I'm also the founder of **SyntaxLoops**, where I'm building software aimed at
-automating e-commerce reconciliation and reducing repetitive operational work.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saahil_Kudia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saahilkudia/)
+[![SyntaxLoops](https://img.shields.io/badge/SyntaxLoops-Founder-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syntaxloops.com)
 
----
-
-## 🛠️ Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-Backend-orange?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Framework-green?style=flat-square)
-![REST API](https://img.shields.io/badge/REST-APIs-blue?style=flat-square)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?style=flat-square)
-
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Development-black?style=flat-square)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
+
+I'm an **Applied Computing student and software engineer** focused on backend
+systems, business applications, and automation.
+
+I mainly work with **Java and Spring Boot**, building systems around real
+operational problems including clinic management, business workflows,
+financial reconciliation, and e-commerce automation.
+
+I'm also building **SyntaxLoops**, a B2B platform focused on automating
+e-commerce reconciliation and reducing repetitive operational work.
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏥 Clinic Management System
 
-A clinic operations platform built around real-world administrative and
-business requirements.
+Real-world clinic operations platform covering administrative and business workflows.
 
-The system centralizes clinic workflows and is being expanded with an
-**Inventory & Purchase Order system** designed to improve purchasing control,
-approval workflows, vendor ordering, and bill verification.
+Currently expanding with an **Inventory & Purchase Order system** for purchasing control, approvals, vendor ordering and bill verification.
 
-**Tech:** Java • Spring Boot • Firebase • REST APIs • Thymeleaf
+**Java • Spring Boot • Firebase • Thymeleaf**
 
-[View Repository](https://github.com/saahilkudia/modern_clinics_management)
+[View Project →](https://github.com/saahilkudia/modern_clinics_management)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔄 SyntaxLoops
 
-A B2B software platform focused on automating e-commerce reconciliation and
-reducing manual operational work across orders, payments, and financial records.
+B2B software focused on automating **e-commerce reconciliation** and reducing manual operational work.
 
-Currently evolving toward a scalable backend architecture for e-commerce
-integrations and automated transaction workflows.
+Built around integrations, financial workflows and backend automation.
 
-**Focus:** Backend Architecture • REST APIs • E-commerce Automation • Reconciliation
+**Backend Architecture • REST APIs • Automation**
 
-[Visit SyntaxLoops](https://syntaxloops.com)
+[Visit SyntaxLoops →](https://syntaxloops.com)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🏢 T3 Management System
 
-A business management application built using Spring Boot with persistent
-relational data storage and server-rendered application workflows.
+Business management application with persistent relational storage and server-rendered workflows.
 
-**Tech:** Java • Spring Boot • Spring Data JPA • MySQL • Thymeleaf
+**Java • Spring Boot • JPA • MySQL**
 
-[View Repository](https://github.com/saahilkudia/t3_commitee)
+[View Project →](https://github.com/saahilkudia/t3_commitee)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💳 PayStream
 
-My first university software project: a console-based banking system written
-in C for managing accounts and financial transactions.
+My first university software project.
 
-Built collaboratively by three contributors and served as one of my first
-experiences designing a larger program beyond individual coding exercises.
+A collaborative console-based banking system built in **C**, covering accounts, transactions and persistent data.
 
-**Tech:** C • File Handling • Procedural Programming
+**C • File Handling • Procedural Programming**
 
-[View Repository](https://github.com/saahilkudia/PayStream)
+[View Project →](https://github.com/saahilkudia/PayStream)
 
----
-
-## 💡 What I'm Working On
-
-- Building backend and business automation systems
-- Developing and expanding SyntaxLoops
-- Extending the Clinic Management System with inventory and PO workflows
-- Improving system architecture, APIs, databases, and deployment practices
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saahilkudia&show_icons=true&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilkudia&layout=compact&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saahilkudia&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahilkudia&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
-## 🤝 Connect
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/saahilkudia/) •
-[SyntaxLoops](https://syntaxloops.com)
+### Building systems. Solving operational problems. Learning by shipping.
+
+[LinkedIn](https://www.linkedin.com/in/saahilkudia/) • [SyntaxLoops](https://syntaxloops.com)
+
+</div>
